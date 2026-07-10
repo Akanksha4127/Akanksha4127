@@ -1,4 +1,4 @@
-<h1 align="center">😎 Akanksha | UI/UX Developer and Designer</h1>
+<!-- <h1 align="center">😎 Akanksha | UI/UX Developer and Designer</h1>
 <p align="center" >Engineering solutions that scale with clarity, performance and intent 💪.</p>
 <p align="center">
   <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
@@ -107,7 +107,7 @@
 </td></tr></table>  
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kssaxena&show_icons=true&locale=en&layout=compact" alt="kssaxena" /></p> -->
 ## 📊 GitHub Stats
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kssaxena&theme=github_dark" />
 </p>
 
@@ -116,4 +116,4 @@
 ### 📫 Connect With Me  
 
 - 🌍 Portfolio: <a href="https://mrsaxena.arisertradco.com">Mr_Saxena</a>
-- 📬 Mail: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kshitijsaxena9@gmail.com&su=Hello%20from%20your%20portfolio!&body=Hi%20there,%0A%0AI%20found%20your%20portfolio%20and%20wanted%20to%20reach%20out.%0A%0ABest%20regards,%0A[Your%20Name]">kshitijsaxena9@gmail.com</a>
+- 📬 Mail: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kshitijsaxena9@gmail.com&su=Hello%20from%20your%20portfolio!&body=Hi%20there,%0A%0AI%20found%20your%20portfolio%20and%20wanted%20to%20reach%20out.%0A%0ABest%20regards,%0A[Your%20Name]">kshitijsaxena9@gmail.com</a> --> -->
